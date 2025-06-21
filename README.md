@@ -1,4 +1,4 @@
-#C++ Pointer Helper
+# C++ Pointer Helper
 Um aplicativo simples e intuitivo para ajudar desenvolvedores a compreender e usar ponteiros em C++ de forma eficiente e estruturada.
 
 ## O que é?
@@ -21,13 +21,13 @@ CSS: Estilo para uma interface limpa e responsiva.
 ## Como Rodar Localmente
 
 Clone o repositório:
-git clone https://github.com/GabreuSenra/PointerHelper.git
+`git clone https://github.com/GabreuSenra/PointerHelper.git`
 
 Instale as dependências:
-npm install
+`npm install`
 
 Inicie o servidor de desenvolvimento:
-npm run dev
+`npm run dev`  
 Acesse no navegador: http://localhost:3000
 
 ## Contribuições
